@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+    <Source>C:\Users\JerryZhao\Desktop\archive.ai</Source>
+    <SmallTileSource>C:\Users\JerryZhao\Desktop\archive.ai</SmallTileSource>
+    <MediumTileSource>C:\Users\JerryZhao\Desktop\archive.ai</MediumTileSource>
+    <WideTileSource>C:\Users\JerryZhao\Desktop\archive.ai</WideTileSource>
+    <LargeTileSource>C:\Users\JerryZhao\Desktop\archive.ai</LargeTileSource>
+    <AppIconSource>C:\Users\JerryZhao\Desktop\archive.ai</AppIconSource>
+    <SplashScreenSource>C:\Users\JerryZhao\Desktop\archive.ai</SplashScreenSource>
+    <PackageLogoSource>C:\Users\JerryZhao\Desktop\archive.ai</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>

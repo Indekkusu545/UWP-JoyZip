@@ -1,0 +1,7 @@
+namespace JoyZip {
+    [default_interface]
+    runtimeclass CreatArchivePage : Windows.UI.Xaml.Controls.Page {
+        CreatArchivePage();
+        Windows.UI.Xaml.Controls.Grid fileThumbView;
+    }
+}
